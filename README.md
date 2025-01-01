@@ -2,10 +2,10 @@
 
 My name is Rui, I'm a PhD in student in mathematics at [UMass Amherst](https://www.umass.edu).
 
-My research interests are in:
-- factorization algebras
-- supergeometry
-- derived geometry and shifted symplectic structures
-- quantum field theory
+I'm interested in the mathematics of quantum field theory. I like to think about: 
 
-You can reach me at [ruimp.com](http://ruimp.com). I'm always up to discuss anything math and physics!
+- factorization algebras;
+- derived geometry and supergeometry;
+- operads and higher structures.
+
+You can reach me at [hifiduk.me](http://hifiduk.me). I'm always up to discuss anything math and physics!
