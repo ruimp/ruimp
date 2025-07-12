@@ -1,7 +1,5 @@
 ## Hi there!
 
-I'm Rui, thanks for stopping by!
-
 I'm a mathematician with experience in physics and computational modeling looking for interesting problems to solve!
 
 My research interests are in the mathematics of quantum field theory.
